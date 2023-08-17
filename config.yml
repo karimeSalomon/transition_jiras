@@ -1,0 +1,6 @@
+# :::: Credentials
+credentials:
+  server: <Add_here_your_server>
+  email: <Add_here_your_email>
+  jira_token: <Add_here_your_token>
+
